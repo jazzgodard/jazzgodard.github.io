@@ -2,7 +2,7 @@
   "name": "jazzgodard",
   "version": "1.0.0",
   "description": "Portfolio",
-  "main": "src/assets/js/main.js",
+  "main": "./assets/js/main.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production --module-bind js=babel-loader"
