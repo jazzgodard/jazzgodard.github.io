@@ -33,5 +33,26 @@
 		"mediaType": "Web Copy Sample",
 		"image": "pic05.jpg",
 		"url": "https://cochranfirm.com/practice-areas/medical-malpractice-lawyers/"
-  }
+  },
+  {
+    "client": "Clint Newman, D.D.S",
+    "workType": "All Digital Marketing + Socials",
+		"mediaType": "Blog Sample",
+		"image": "pic06.jpg",
+		"url": "https://www.clintnewmandds.com/blog/2016/04/15/painless-smile-makeovers-with-sedation-180353"
+  },
+  {
+    "client": "Gulch Dental Studio",
+    "workType": "All Digital Marketing",
+		"mediaType": "Blog Sample",
+		"image": "pic07.jpg",
+		"url": "https://www.gulchdentalstudio.com/blog/2016/08/23/veneers-bonding-invisalign-180065"
+  },
+  {
+    "client": "Pensacola Wellness",
+    "workType": "Social Media + Blogs",
+		"mediaType": "Blog Sample",
+		"image": "pic08.jpg",
+		"url": "http://pensacolawellness.com/healthy-aging-month/"
+	}
 ]

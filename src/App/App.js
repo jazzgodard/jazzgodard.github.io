@@ -42,7 +42,7 @@ function App() {
       </nav> */}
 
       {/* <!-- Header --> */}
-      <header className="masthead">
+      <header className="masthead" id="masthead">
         <div className="container">
           <div className="intro-text">
             <div className="intro-lead-in">Marketing & Communications</div>
@@ -343,7 +343,7 @@ function App() {
       </section> */}
 
       {/* <!-- Footer --> */}
-      <footer>
+      <footer id="footer">
         <div className="container">
           <div className="row">
             <div className="col-md-4">
@@ -352,18 +352,18 @@ function App() {
             <div className="col-md-4">
               <ul className="list-inline social-buttons">
                 <li className="list-inline-item">
-                  <a href="#">
+                  <a href="/">
                     <i className="far fa-envelope"></i>
                   </a>
                 </li>
                 <li className="list-inline-item">
-                  <a href="#">
+                  <a href="/">
                     <i className="fab fa-linkedin-in"></i>
                   </a>
                 </li>
               </ul>
             </div>
-            <div className="col-md-4">
+            {/* <div className="col-md-4">
               <ul className="list-inline quicklinks">
                 <li className="list-inline-item">
                   <a href="#">Privacy Policy</a>
@@ -372,7 +372,7 @@ function App() {
                   <a href="#">Terms of Use</a>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
         </div>
       </footer>
