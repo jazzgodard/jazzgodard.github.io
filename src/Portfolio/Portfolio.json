@@ -1,0 +1,37 @@
+[
+  {
+    "client": "Clint Newman, D.D.S",
+    "workType": "All Digital Marketing",
+		"mediaType": "Press Release Sample",
+		"image": "pic01.jpg",
+		"url": "https://www.clintnewmandds.com/blog/2016/09/21/top-nashville-cosmetic-dentist-featured-180365"
+	},
+	{
+    "client": "Marathon Pilates",
+    "workType": "Social Media + Event Marketing",
+		"mediaType": "Instagram Post",
+		"image": "pic02.jpg",
+		"url": "https://www.instagram.com/p/B-x4dZNB3uf/?utm_source=ig_web_copy_link"
+  },
+  {
+    "client": "Dental Bliss",
+    "workType": "All Digital Marketing",
+		"mediaType": "Blog Sample",
+		"image": "pic03.jpg",
+		"url": "http://dentalbliss.com/all-on-4-dental-implants-implant-supported-dentures/"
+  },
+  {
+    "client": "Snodgrass-King",
+    "workType": "Social Media + Web Copy",
+		"mediaType": "Blog Sample",
+		"image": "pic04.jpg",
+		"url": "https://snodgrassking.com/oral-health-obesity/"
+  },
+  {
+    "client": "The Cochran Firm",
+    "workType": "Web Copy + Blogs",
+		"mediaType": "Web Copy Sample",
+		"image": "pic05.jpg",
+		"url": "https://cochranfirm.com/practice-areas/medical-malpractice-lawyers/"
+  }
+]
