@@ -26,7 +26,7 @@ function App() {
           <div className="row">
             <div className="col-lg-12 text-center">
               <h2 className="section-heading text-uppercase">Services</h2>
-              <h3 className="section-subheading text-muted">I provide a diverse range of digital marketing, internal communication, and event marketing services to meet client needs and provide results-driven success. How do I accomplish this? <br/><br/>Through innovative and effective solutions.</h3>
+              <h3 className="section-subheading text-muted">I provide a diverse range of digital marketing, internal communication, and event marketing services to meet client needs and provide results-driven success through innovative and effective solutions.</h3>
             </div>
           </div>
           <div className="row text-center justify-content-center">
@@ -36,7 +36,7 @@ function App() {
                 <i className="fas fa-copy fa-stack-1x fa-inverse"></i>
               </span>
               <h4 className="service-heading">Content + Copy</h4>
-              <p className="text-muted">Press releases, internal comms, blogs, web copy, and more. Better engagement, succinct writing, and stronger leads. Content creation includes but is not limited to department workflows, client presentations, social media graphics, and digital ads.</p>
+              <p className="text-muted">Press releases, internal comms, blogs, web copy, and more. Better engagement, succinct writing, and stronger leads. Content creation includes but is not limited to marketing collateral, social media posts, department workflows, client presentations, articles, and digital ads.</p>
             </div>
             <div className="col-md-4">
               <span className="fa-stack fa-4x">
