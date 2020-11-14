@@ -27,7 +27,7 @@ class MyNavbar extends React.Component {
           <a className="navbar-brand js-scroll-trigger" href="#masthead">Jazz Godard</a>
           <NavbarToggler className="navbar-toggler navbar-toggler-right" onClick={this.toggle} />
             <Collapse className="" isOpen={this.state.isOpen} navbar>
-              <Nav className="ml-auto" navbar>
+              <Nav className="" navbar>
                 <NavItem>
                   <NavLink href="#services">Services</NavLink>
                 </NavItem>
