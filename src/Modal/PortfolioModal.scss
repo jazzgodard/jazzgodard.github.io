@@ -18,3 +18,44 @@ body.modal-open {
   padding-right: 0 !important;
   overflow-y: hidden !important;
 }
+
+.ModalBody {
+  display: flex;
+  flex-direction: column;
+}
+
+.ModalDetails {
+  display: flex;
+  flex-direction: column;
+}
+
+.ModalImg {
+  width: 90vw;
+}
+
+.ModalPhoto {
+  text-align: center;
+}
+
+
+@media (min-width: 768px) {
+  .ModalBody {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .ModalImg {
+    width: inherit;
+  }
+
+  .ModalPhoto {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
+  .ModalDetails {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}

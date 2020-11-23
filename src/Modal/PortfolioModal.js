@@ -29,11 +29,11 @@ export default function PortfolioModal({
   return (
     <Modal isOpen={isOpen} toggle={toggle} className="PorfolioModal">
       <ModalHeader className="border-0" toggle={toggle}></ModalHeader>
-      <ModalBody className="d-flex flex-row align-items-center">
-        <a className="text-center col-6" href={url} target="_blank" rel="noopener noreferrer">
-          <img alt={`${client} logo`} src={getImage(image)} />
+      <ModalBody className="ModalBody">
+        <a className="ModalPhoto" href={url} target="_blank" rel="noopener noreferrer">
+          <img className="ModalImg" alt={`${client} logo`} src={getImage(image)} />
         </a>
-        <div className="d-flex flex-column col-6">
+        <div className="ModalDetails">
           <h3 className="border-primary m-1">{client}</h3>
           <h4 className="text-secondary m-1">{workType}</h4>
           <p className="m-1">{description}</p>
