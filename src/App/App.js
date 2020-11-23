@@ -6,6 +6,7 @@ import MyNavbar from '../MyNavbar/MyNavbar';
 import portfolioProjects from '../Portfolio/Portfolio.json';
 
 import '../styles/scss/agency.scss';
+import './App.scss';
 
 // TODO: make theme responsive
 function App() {
@@ -61,7 +62,7 @@ function App() {
             </div>
           </div>
           <div className="row">
-            <div className="Portfolio row">
+            <div className="Portfolio">
               {portfolioProjects.map((project) => <Portfolio
                   key={project.client}
                   project={project}
