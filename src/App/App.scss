@@ -1,4 +1,8 @@
 .Portfolio {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column nowrap;
+
+  @media(min-width:768px) {
+    flex-flow: row wrap;
+  }
 }

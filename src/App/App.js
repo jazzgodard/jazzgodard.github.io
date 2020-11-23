@@ -61,7 +61,7 @@ function App() {
               <h2 className="text-white section-heading text-uppercase">Portfolio</h2>
             </div>
           </div>
-          <div className="row">
+          <div>
             <div className="Portfolio">
               {portfolioProjects.map((project) => <Portfolio
                   key={project.client}
